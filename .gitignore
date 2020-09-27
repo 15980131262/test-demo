@@ -4,3 +4,4 @@ test.txt
 test2.txt
 /vendor/*
 abc.txt
+*.bak
